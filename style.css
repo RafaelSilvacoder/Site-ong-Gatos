@@ -1,23 +1,54 @@
-.imagemgatinhos {
-    width: 400px;
-    height: auto;
-    display: block;
+
+h1 {
+    text-align: center;
+    color: #A67272;
+}
+
+body {
+    background-color: #035373;
+    color: #ffffff;
     
 }
 
-.body {
-    background-color: rgb(28, 190, 190);
-}
-
-.imagemvoluntarios {
+.fotos {
     width: 400px;
     height: auto;
-    display: block;
+    display: inline;
+    margin: 10px;
+    
 }
 
-.imagemdoacao {
-     width: 400px;
-    height: auto;
-    display: block;
+.menu a:hover {
+    background: #8C793F;
+    
 }
+
+.rodape {
+    text-align: center;
+    background: #212121;
+    color: #ffffff;
+    
+}
+
+
+.menu a {
+    text-decoration:none;
+    color: #ffffff;
+    border: 2px solid;
+    margin: 20px;
+    font-size: large;
+    
+    
+}
+
+.menu ul {
+    list-style-type:none;
+    display: flex; 
+    gap: 15px;
+    background: #376B8C;
+   padding: 20px;
+    
+}
+
+
 
